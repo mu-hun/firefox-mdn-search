@@ -9,7 +9,7 @@
   "chrome_settings_overrides": {
     "search_provider": {
       "name": "MDN Search",
-      "search_url": "https://www.npmjs.com/search?q={searchTerms}",
+      "search_url": "https://developer.mozilla.org/en-US/search?q={searchTerms}",
       "favicon_url": "https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png",
       "keyword": "mdn"
     }
