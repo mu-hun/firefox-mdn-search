@@ -1,4 +1,4 @@
-# Arch Linux AUR package search add-on for Firefox
+# Mozilla Developer Network MDN search add-on for Firefox
 
 Install from [Mozilla Addon Store](https://addons.mozilla.org/en-US/firefox/addon/mdn/).
 
